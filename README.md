@@ -12,7 +12,7 @@
 - [TP1][TP1]
 - TP2
 - TP3
-- [Mini Projet](#capstone)
+- [Mini Projet](#Capstone)
 - [Certification](#Certification)
 - [Moyenne des Tps DM](#Moyenne)
 
