@@ -12,7 +12,7 @@
 - [TP1][TP1]
 - TP2
 - TP3
-- [Mini Projet](#Capstone)
+- [Capstone ou Mini Projet](#Capstone)
 - [Certification](#Certification)
 - [Moyenne des Tps DM](#Moyenne)
 
@@ -37,7 +37,7 @@ Pour valider les TP d'analyse numérique :
 - Compléter les certifications [3 certifs Datacamp](#Certification)
 - [Capstone Project](#capstone)
 
-## Capstone (Mini projet)
+## Capstone
 L'étudiant doit choisir un mini projet à réaliser parmis une liste de projet que je vais donner au milieu du semestre ( moi de novembre).
 Le mini projet peut être fait en binôme et il aura comme thème :
 
