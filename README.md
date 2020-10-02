@@ -24,6 +24,7 @@
 * [Googlecollabs][clb]
 
 ## Getting started 
+> Dans une première séance (session en ligne) nous allons faire une mise à niveau dans la programmation Python et Matlab/Octave 
 > + On va installer Anaconda et Octave en local
 > + On  va aussi ajouter le kernel d'octave/Matlab à jupyter notebook
 > + On va apprendre à utiliser google colab et octave-online 
@@ -41,9 +42,16 @@ Le mini projet peut être fait en binôme et il aura comme thème :
 * Intérpolations
 * Intégration snumériques
 
+L'étudiant aura le choix de choisir le  langage qu'il va utiliser parmis:
+* Python 
+* Matlab ( Gui )
+* Autres ( Java , C++ ) 
+
 
 ## Certification
-
+> Les certifications aurons pou rbut le perfectionnement dans la maitrise du langage Python et elle sont optionnelles
+> Les Etudions qui vont valider certaines certifications vont bénifécierd'un Bonus [voir](Moyenne) 
+### La liste des certifications
 1. [Writing Efficient Python Code ][cdi]
 2. [Writing Functions in Python][fun]
 3. [Object-Oriented Programming in Python][lcp]
