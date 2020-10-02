@@ -42,7 +42,7 @@ Pour valider les TP d'analyse numérique :
 ## Moyenne
 Moyenne=(Moyenne( 3TP)+Capstone project x 2)/3 + Bonus
 
-Bonus = Nombre de certification parmi #Certification
+Bonus = Nombre de certification parmi les [certifications](#Certification)
 
 [ANACONDA]: https://www.anaconda.com/products/individual
 [Jup]: https://jupyter.org/
