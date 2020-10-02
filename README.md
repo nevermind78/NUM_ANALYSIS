@@ -33,9 +33,10 @@ Pour valider les TP d'analyse numérique :
 
 ## Certification
 
-1. [Cleaning Data In python ][cdi]
-2. [Linear Classifiers in Python][lcp]
-3. [Cluster Analysis][cap]
+1. [Writing Efficient Python Code ][cdi]
+2. [Writing Functions in Python][fun]
+3. [Object-Oriented Programming in Python][lcp]
+
 
 
 ## Moyenne
@@ -48,8 +49,9 @@ Bonus = (0.5-Assessement) x (Nombre de certif datacamp) si Assessment >=0.5
 [Jup]: https://jupyter.org/
 [oct]: https://www.gnu.org/software/octave/index
 [TP1]: https://github.com/nevermind78/NUM_ANALYSIS/tree/master/TP1
-[cdi]: https://learn.datacamp.com/courses/cleaning-data-in-python
-[lcp]: https://learn.datacamp.com/courses/linear-classifiers-in-python
+[cdi]: https://learn.datacamp.com/courses/writing-efficient-python-code
+[lcp]: https://learn.datacamp.com/courses/object-oriented-programming-in-python
+[fun]: https://learn.datacamp.com/courses/writing-functions-in-python
 [cap]: https://learn.datacamp.com/courses/cluster-analysis-in-python
 [admp]:https://assessment.datacamp.com/data-manipulation-with-python
 [cp]: https://learn.datacamp.com/projects
