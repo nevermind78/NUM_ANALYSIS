@@ -43,7 +43,7 @@ Le mini projet peut être fait en binôme et il aura comme thème :
 
 * Résolution d'équations non linéaires
 * Intérpolations
-* Intégration snumériques
+* Intégrations numériques
 
 L'étudiant aura le choix de choisir le  langage qu'il va utiliser parmis:
 * Python 
