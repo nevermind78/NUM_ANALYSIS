@@ -16,8 +16,6 @@
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
 ## Requirements
-> + On va installer Anaconda et Octave en local et apprendre à les utiliser en lignes
-> + On  va aussi ajouter le kernel d'octave/Matlab à jupyter notebook 
 
 * [ANACONDA For windows][ANACONDA] 
 * [ANACONDA For Linux][ANACONDA]
@@ -26,11 +24,22 @@
 * [Googlecollabs][clb]
 
 ## Getting started 
+> + On va installer Anaconda et Octave en local
+> + On  va aussi ajouter le kernel d'octave/Matlab à jupyter notebook
+> + On va apprendre à utiliser google colab et octave-online 
+## validation des Tps
 Pour valider les TP d'analyse numérique :
 - Il faut compléter les TPs (3 TPs) et les renvoyer avant les deadlines
 - Compléter les certifications [3 certifs Datacamp](#Certification)
-- [Capstone Project][cp]
+- [Capstone Project](#capstone)
 
+## capstone 
+L'étudiant doit choisir un mini projet à réaliser parmis une liste de projet que je vais donner au milieu du semestre ( moi de novembre).
+Le mini projet peut être fait en binôme et il aura comme thème :
+
+* Résolution d'équations non linéaires
+* Intérpolations
+* Intégration snumériques
 
 
 ## Certification
