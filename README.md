@@ -17,7 +17,7 @@
 
 ## Requirements
 > + On va installer Anaconda et Octave en local et apprendre à les utiliser en lignes
-  + On  va aussi ajouter le kernel d'octave/Matlab à jupyter notebook 
+> + On  va aussi ajouter le kernel d'octave/Matlab à jupyter notebook 
 
 * [ANACONDA For windows][ANACONDA] 
 * [ANACONDA For Linux][ANACONDA]
