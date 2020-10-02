@@ -49,7 +49,7 @@ L'étudiant aura le choix de choisir le  langage qu'il va utiliser parmis:
 
 
 ## Certification
-> Les certifications aurons pou rbut le perfectionnement dans la maitrise du langage Python et elle sont optionnelles
+> Les certifications aurons pour but le perfectionnement dans la maitrise du langage Python et elle sont optionnelles
 > Les Etudions qui vont valider certaines certifications vont bénifécierd'un Bonus [voir](Moyenne) 
 ### La liste des certifications
 1. [Writing Efficient Python Code ][cdi]
@@ -70,7 +70,4 @@ Bonus = Nombre de certification parmi les 3 [certifications](#Certification)
 [cdi]: https://learn.datacamp.com/courses/writing-efficient-python-code
 [lcp]: https://learn.datacamp.com/courses/object-oriented-programming-in-python
 [fun]: https://learn.datacamp.com/courses/writing-functions-in-python
-[cap]: https://learn.datacamp.com/courses/cluster-analysis-in-python
-[admp]:https://assessment.datacamp.com/data-manipulation-with-python
-[cp]: https://learn.datacamp.com/projects
 [clb]:https://colab.research.google.com/notebooks/intro.ipynb
