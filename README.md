@@ -10,8 +10,9 @@
 - [Requirements](#requirements)
 - [Getting started](#getting-started)
 - [TP1][TP1]
-- [TP2]
-- [TP3]
+- TP2
+- TP3
+- [Mini Projet](#capstone)
 - [Certification](#Certification)
 - [Moyenne des Tps DM](#Moyenne)
 
