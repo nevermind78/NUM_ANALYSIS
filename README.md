@@ -27,7 +27,7 @@
 * [Googlecollabs][clb]
 
 ## Getting started 
-> Dans une première séance (session en ligne) nous allons faire une mise à niveau dans la programmation Python et Matlab/Octave 
+> Dans une première séance (session en ligne) nous allons faire une mise à niveau sur la programmation Python et Matlab/Octave 
 > + On va installer Anaconda et Octave en local
 > + On  va aussi ajouter le kernel d'octave/Matlab à jupyter notebook
 > + On va apprendre à utiliser google colab et octave-online 
