@@ -53,7 +53,7 @@ L'étudiant aura le choix de choisir le  langage qu'il va utiliser parmis:
 
 ## Certification
 > Les certifications aurons pour but le perfectionnement dans la maitrise du langage Python et elle sont optionnelles
-> Les Etudions qui vont valider certaines certifications vont bénifécierd'un Bonus [voir](Moyenne) 
+> Les Etudiants qui vont valider certaines certifications vont bénifécierd'un Bonus [voir](Moyenne) 
 ### La liste des certifications
 1. [Writing Efficient Python Code ][cdi]
 2. [Writing Functions in Python][fun]
