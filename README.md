@@ -31,7 +31,7 @@
 > + On va installer Anaconda et Octave en local
 > + On  va aussi ajouter le kernel d'octave/Matlab à jupyter notebook
 > + On va apprendre à utiliser google colab et octave-online 
-## validation des Tps
+## Validation des Tps
 Pour valider les TP d'analyse numérique :
 - Il faut compléter les TPs (3 TPs) et les renvoyer avant les deadlines
 - Compléter les certifications [3 certifs Datacamp](#Certification)
