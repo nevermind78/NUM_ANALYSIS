@@ -1,6 +1,9 @@
 # NUM_ANALYSIS
 
-
+|cellule 1|cellule 2|
+|--------|--------|
+|    A    |    B    |
+|    C    |    D    |
 
 
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
