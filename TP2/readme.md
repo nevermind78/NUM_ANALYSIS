@@ -3,7 +3,7 @@
 
 
 **Polynome d'interpolation de Lagrange** 
-> Soient <img src="https://render.githubusercontent.com/render/math?math=(x_0,y_0), \ldots,(x_k,y_k),\ldots ,(x_n,k_n)">  , <img src="https://render.githubusercontent.com/render/math?math=n+1"> points deux à deux distincts, le polynôme d'interpolation de Lagrange associés à ces points supports est défini par :
+> Soient <img src="https://render.githubusercontent.com/render/math?math=(x_0,y_0), \ldots,(x_k,y_k),\ldots ,(x_n,k_n)">  , <img src="https://render.githubusercontent.com/render/math?math=n + 1"> points deux à deux distincts, le polynôme d'interpolation de Lagrange associés à ces points supports est défini par :
 <img src="https://render.githubusercontent.com/render/math?math=\displaystyle P_n(x)=\sum_{k=0}^{n-1} y_kL_k(x)">
 
 avec
@@ -14,7 +14,7 @@ avec
 et 
 
 
-<img src="https://render.githubusercontent.com/render/math?math=L_{k}(x)=\displaystyle\frac{(x-x_1)(x-x_2)\ldots(x-x_{k-1})(x-x_{k+1})\ldots(x_0-x_{n})}{(x_k-x_0)(x_k-x_1)\ldots(x_k-x_{k-1})(x_k-x_{k+1})\ldots(x_k-x_{n})}">
+<img src="https://render.githubusercontent.com/render/math?math=L_{k}(x)=\displaystyle\frac{(x-x_1)(x-x_2)\ldots(x-x_{k-1})(x-x_{k+1})\ldots(x_0-x_{n})}{(x_k-x_0)(x_k-x_1)\ldots(x_k-x_{k-1})(x_k-x_{k + 1})\ldots(x_k-x_{n})}">
 
 
  pour 
