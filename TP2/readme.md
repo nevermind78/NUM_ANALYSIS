@@ -1,5 +1,6 @@
 # TP2 
 ## Interpolation polynomiale
+<img src="https://render.githubusercontent.com/render/math?math=e^{i \pi} = -1">
 
 **Polynome d'interpolation de Lagrange** 
 > Soient $(x_0,y_0), \ldots,(x_k,y_k),\ldots ,(x_n,k_n)$ $n+1$ points deux à deux distincts, le polynôme d'interpolation de Lagrange associés à ces points supports est défini par :
