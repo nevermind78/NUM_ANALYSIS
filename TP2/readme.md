@@ -3,7 +3,7 @@
 
 
 **Polynome d'interpolation de Lagrange** 
-> Soient <img src="https://render.githubusercontent.com/render/math?math=(x_0,y_0), \ldots,(x_k,y_k),\ldots ,(x_n,k_n)">  , <img src="https://render.githubusercontent.com/render/math?math=n + 1"> points deux à deux distincts, le polynôme d'interpolation de Lagrange associés à ces points supports est défini par :
+> Soient <img src="https://render.githubusercontent.com/render/math?math=(x_0,y_0), \ldots,(x_k,y_k),\ldots ,(x_n,k_n)">  , <img src="https://render.githubusercontent.com/render/math?math={n + 1}"> points deux à deux distincts, le polynôme d'interpolation de Lagrange associés à ces points supports est défini par :
 <img src="https://render.githubusercontent.com/render/math?math=\displaystyle P_n(x)=\sum_{k=0}^{n-1} y_kL_k(x)">
 
 avec
