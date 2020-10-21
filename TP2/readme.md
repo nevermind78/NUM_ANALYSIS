@@ -1,7 +1,7 @@
 # TP2 
 ## Interpolation polynomiale
 
-[//]: # (This may be the most platform independent comment)
+[//]: # (how to add latex in markdown https://gist.github.com/a-rodin/fef3f543412d6e1ec5b6cf55bf197d7b)
 
 **Polynome d'interpolation de Lagrange** 
 > Soient <img src="https://render.githubusercontent.com/render/math?math=(x_0,y_0), \ldots,(x_k,y_k),\ldots ,(x_n,k_n)">  ,  n+1 points deux à deux distincts, le polynôme d'interpolation de Lagrange associés à ces points supports est défini par :
