@@ -8,7 +8,7 @@
 - [TP1][TP1]
 - [TP2][TP2]
 - [TP3][TP3]
-- [Capstone ou Mini Projet](#Capstone)
+- [Capstone ou Mini Projet ou QCM](#Capstone)
 - [Certification](#Certification)
 - [Moyenne des Tps DM](#Moyenne)
 
