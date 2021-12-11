@@ -1,2 +1,2 @@
 
-[Screen To Gig]:(https://www.screentogif.com/)
+[Screen To Gig:](https://www.screentogif.com/)
